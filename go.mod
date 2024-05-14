@@ -1,4 +1,4 @@
-module github.com/goalsgame/gridly-go-sdk
+module github.com/goalsgame/gridly
 
 go 1.13
 
